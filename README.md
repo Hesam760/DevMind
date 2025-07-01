@@ -60,9 +60,9 @@ DevMind is a mobile AI assistant application built using **React Native (Expo)**
 
 ## 📸 Demo
 <p align="center">
-  <img src="https://github.com/Hesam760/DevMind/blob/main/screenshots/ChatScreen.png" width="30%" height="600px" />
-  <img src="https://github.com/Hesam760/DevMind/blob/main/screenshots/SettingScreen.png" width="30%" height="600px"/>
-  <img src="https://github.com/Hesam760/DevMind/blob/main/screenshots/ProfileScreen.png" width="30%" height="600px"/>
+  <img src="https://github.com/Hesam760/DevMind/blob/main/screenshots/ChatScreen.png" width="30%" height="550px" />
+  <img src="https://github.com/Hesam760/DevMind/blob/main/screenshots/SettingScreen.png" width="30%" height="550px"/>
+  <img src="https://github.com/Hesam760/DevMind/blob/main/screenshots/ProfileScreen.png" width="30%" height="550px"/>
 </p>
 
 ---
