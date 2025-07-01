@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "DevMind",
+    "slug": "DevMind",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/AI-1.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/images/AI-1.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#77c1da"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/AI-1-512-icon.png",
+        "backgroundColor": "#fff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.hesam760.DevMind"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "67ad0677-ced5-4baa-8a8f-8cd231f07360"
+      }
+    },
+    "owner": "hesam760"
+  }
+}
